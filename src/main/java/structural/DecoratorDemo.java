@@ -1,4 +1,4 @@
-package org.example;
+package structural;
 
 import structural.decorator.Beverage.Beverage;
 import structural.decorator.Beverage.Espresso;
@@ -6,9 +6,7 @@ import structural.decorator.Beverage.HouseBlend;
 import structural.decorator.Decorator.MochaDecorator;
 import structural.decorator.Decorator.SoyDecorator;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class DecoratorDemo {
     public static void main(String[] args) {
 
 

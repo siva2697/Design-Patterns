@@ -5,7 +5,7 @@ import behavioural.observer.Displays.GeneralDisplay;
 import behavioural.observer.Displays.StatisticsDisplay;
 import behavioural.observer.WeatherStation.WeatherStation;
 
-public class Main {
+public class ObserverDemo {
     public static void main(String[] args) {
 
         WeatherStation weatherStation = new behavioural.observer.WeatherStation.WeatherStation();
